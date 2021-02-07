@@ -1,0 +1,22 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --experimental-vm-modules node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xaz16/advent-of-code-2020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xaz16/advent-of-code-2020/issues"
+  },
+  "homepage": "https://github.com/Xaz16/advent-of-code-2020#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
