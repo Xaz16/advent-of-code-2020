@@ -1,6 +1,3 @@
-export const ROWS = 127;
-export const COLS = 7;
-
 export const INPUT = `FFBBFFBRRR
 FBFBBBBLRR
 BFBBBBBLRR
